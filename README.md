@@ -16,5 +16,5 @@ If you are working with stereo cameras, you may want to separate both left and r
 
 ## Usage
 
-You only need to have your video ready in some directory. So add it as a first argument in the comand line and that´s it.
+You only need to have your video ready in some directory. So add it as a first argument in the comand line and that´s all.
 Notice that the code is set to work on 1280x480 resolutions.
