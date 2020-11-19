@@ -12,7 +12,7 @@ Just execute the script and press space to take some pictures of your chessboard
 
 
 # frame_splitter
-If you are working with stereo cameras, you may want to separate both lefth and right frames into different videos. With this script you can do it easily.
+If you are working with stereo cameras, you may want to separate both left and right frames into different videos. With this script you can do it easily.
 
 ## Usage
 
